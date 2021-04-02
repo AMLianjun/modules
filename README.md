@@ -9,4 +9,4 @@ Sample code for different approach from history:
   - CommonJS
   - ES Modules
 
-Here are  changes from Lianjun
+Here are new changes from Lianjun
